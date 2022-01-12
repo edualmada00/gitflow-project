@@ -1,1 +1,1 @@
-# gitflow-project
+Este projeto teve como objetivo aprender e testar comandos do gitflow
